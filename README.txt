@@ -3,7 +3,7 @@
 Author: Anto Kochumon 
 Version: 1.0.0  
 License: MIT  
-Demo: [https://antokochumon.github.io/Nexus-Saas-Landing-Page/]  
+Demo: [https://antokochumon.github.io/Nexus-Saas-Landing-Page-Template/]  
 Support: antokochumon2@gmail.com 
 
 == Description ==
